@@ -8,7 +8,7 @@ Hack camera
 
 * apt-get install git
 
-* git clone https://github.com/AngleHarshil/AngleAttack/new/master
+* git clone https://github.com/AngleHarshil/AngleAttack
 
 * pip3 install requests
 
