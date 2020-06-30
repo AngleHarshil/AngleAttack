@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 #-*- coding: utf-8 -*-
-https://github.com/AngleHarshil/AngleAttack/new/mastermport requests,re,os
+https://github.com/AngleHarshil/AngleAttack
 import time
 import sys
 
